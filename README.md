@@ -41,7 +41,7 @@ Make sure you have the following installed and added to your PATH:
 Download links
 
 * yt-dlp: [https://github.com/yt-dlp/yt-dlp/releases](https://github.com/yt-dlp/yt-dlp/releases)
-* FFmpeg: [https://github.com/BtbN/FFmpeg-Builds/releases]([https://www.gyan.dev/ffmpeg/builds/](https://github.com/BtbN/FFmpeg-Builds/releases)
+* FFmpeg: [https://github.com/BtbN/FFmpeg-Builds/releases](https://github.com/BtbN/FFmpeg-Builds/releases)
 
 After downloading, place `yt-dlp.exe` and the `.bat` files in the same folder or add that folder to your Windows PATH.
 
